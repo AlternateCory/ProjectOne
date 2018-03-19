@@ -2,7 +2,7 @@ Game Name: Zombie Slayer
 
 Group: NiceDynamite: Cory Rooker, Blake Martin, Austin Abernathy, Jesse P
 
-Cheat Codes: “Infinite Health” (CTRL + L) cheat and a “super fast shooting” (CTRL + G + Hold Left Mouse)
+Cheat Codes: “Infinite Health” (CTRL + L) cheat and a “super fast shooting” (CTRL + G + Hold Left Mouse) and "Skip Room" (CTRL+1,2,3,4,5) for Room 1, 2, 3, 4, 5.
 
 How to start: There is not an executable because I cannot build one so you must play by running it from GameMaker.
 
